@@ -74,12 +74,12 @@ if __name__ == "__main__":
     if "collect_data" in sys.argv and not path_exists:
         os.makedirs("lib/data")
     if (smooth.lower() in ["yes", "ye", "y"]):
-        from lib.orig import Aimbot
+        from lib.smooth import Aimbot
         listener = keyboard.Listener(on_release=on_release)
         listener.start()
         main()
     elif (smooth.lower() in ["no", "n"]):
-        from lib.smooth import Aimbot
+        from lib.orig import Aimbot
         listener = keyboard.Listener(on_release=on_release)
         listener.start()
         main()
