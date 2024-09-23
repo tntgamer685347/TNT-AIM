@@ -11,7 +11,7 @@
 - 🏗️ This repository contains **only the ground code base** of PhantomFN, not the final or complete version.
 - 🚫 It does not reflect the full functionality, features, or modifications of the official PhantomFN project.
 - 📚 The material here is intended for **educational** and **reference purposes** to showcase how the groundwork was laid.
-- ℹ️ This is **not** the official PhantomFN repository or code.
+- ℹ️ This is **not** the PhantomFN code this is the first unoptimized version of PhantomFN.
 
 ## 📝 Note
 
