@@ -1,4 +1,5 @@
 # ⚠️ Disclaimer
+### ⚠️join the discord⚠️
 
 ## 🚀 PhantomFN Ground Code Base
 
