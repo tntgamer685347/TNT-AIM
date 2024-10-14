@@ -3,7 +3,7 @@
 
 ## 🚀 PhantomFN Ground Code Base
 
-**Important Notice: This repository contains only the foundation of PhantomFN, not the complete or original source code.**
+**Important Notice: This repository contains only the foundation of PhantomFN, not the complete or original source code. PhantomFN was COMPLETLY recoded!**
 
 🛠️ This repository provides a basic framework upon which PhantomFN was built. However, it does **not** include the full or original source code of PhantomFN.
 
