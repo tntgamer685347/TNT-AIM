@@ -24,7 +24,7 @@ For the official PhantomFN code and updates, please visit the official PhantomFN
 
 Want to stay updated on PhantomFN developments, chat with other enthusiasts, or get support? Join our Discord server!
 
-[![Join our Discord server](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/phantomfortnite)
+[![Join our Discord server](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/astralock)
 
 ## 💖 Support the Project
 
