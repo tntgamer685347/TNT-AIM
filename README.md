@@ -1,35 +1,31 @@
-# ⚠️ Disclaimer
-### ⚠️join the discord⚠️
+# PhantomFN Ground Code Base
 
-## 🚀 PhantomFN Ground Code Base
+> Real talk: This is the early foundation. The actual PhantomFN has been completely rebuilt. Think of this as the archaeological dig before the mansion got built.
 
-**Important Notice: This repository contains only the foundation of PhantomFN, not the complete or original source code. PhantomFN was COMPLETLY recoded, and doesnt contain any if this Old Code.**
+## what this actually is
 
-🛠️ This repository provides a basic framework upon which PhantomFN was built. However, it does **not** include the full or original source code of PhantomFN.
+- **Foundation code only** — the groundwork before everything got rewritten
+- **Not the full version** — missing all the optimizations, features, and pain points we've learned since
+- **Educational reference** — see how we laid the bricks before torching them and starting over
+- **The unoptimized draft** — version 0.5 energy, basically
 
-## 🔑 Key Points:
+## what this is NOT
 
-- 🏗️ This repository contains **only the ground code base** of PhantomFN, not the final or complete version.
-- 🚫 It does not reflect the full functionality, features, or modifications of the official PhantomFN project.
-- 📚 The material here is intended for **educational** and **reference purposes** to showcase how the groundwork was laid.
-- ℹ️ This is **not** the PhantomFN code this is the first unoptimized version of PhantomFN.
+- the official PhantomFN source (that lives in the discord server)
+- production-ready code (do not ship this, i am begging you)
+- the latest and greatest (we threw half of this away for reasons)
 
-## 📝 Note
+## actually useful links
 
-All related trademarks, logos, and names belong to their respective owners. This repository is not affiliated with or endorsed by PhantomFN or its developers.
+- **Official updates & support:** [Join the Discord](https://dsc.gg/astralock)
+- **Want the real code?** Check the server, this ain't it chief
 
-For the official PhantomFN code and updates, please visit the official PhantomFN Discord Server.
+## legal stuff nobody reads
 
-## 🌟 Join Our Community!
-
-Want to stay updated on PhantomFN developments, chat with other enthusiasts, or get support? Join our Discord server!
-
-[![Join our Discord server](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/astralock)
-
-## 💖 Support the Project
-
-If you find this project helpful or interesting, consider giving it a star ⭐ on GitHub!
+All trademarks, logos, and names are owned by their respective overlords. this repo isn't affiliated with PhantomFN — it's just the skeleton they left behind.
 
 ---
 
-Made with 💙 by the PhantomFN Team
+made with time and existential dread by the PhantomFN Team
+
+give us a star if this saved you from reinventing the wheel
